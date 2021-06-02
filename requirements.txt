@@ -19,5 +19,5 @@ rsa==4.6
 six==1.14.0
 tinkoff-invest-openapi-client==0.0.7
 uritemplate==3.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 websocket-client==0.56.0
